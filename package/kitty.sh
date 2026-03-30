@@ -1,5 +1,5 @@
 PKG_REPO="kovidgoyal/kitty"
-URL="https://github.com/kovidgoyal/kitty/releases/download/v0.46.2/kitty-0.46.2-x86_64.txz"
+URL="https://github.com/$PKG_REPO/releases/download/v0.46.2/kitty-0.46.2-x86_64.txz"
 ARCHIVE_NAME="kitty.tar.gz"
 
 cd $TEMP_DIR
